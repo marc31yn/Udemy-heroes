@@ -1,5 +1,6 @@
 # Heroes
 
+* Nick Fury
 * Superman
 * Batman
 * Aquaman
@@ -7,4 +8,4 @@
 * Linterna Verde
 * Robin
 * Volcán Negro
-* Atom 
+* Atom
